@@ -1,0 +1,11 @@
+<characters>
+  <character group="8" id="0" name="grote-0" />
+  <character group="4" id="1" name="kleine-1" />
+  <character group="0" id="2" name="broer-2" />
+  <character group="5" id="3" name="knecht-3" />
+  <character group="2" id="4" name="hond-4" />
+  <character group="3" id="5" name="haas-5" />
+  <character group="6" id="6" name="boer-6" />
+  <character group="1" id="7" name="heer-7" />
+  <character group="7" id="8" name="jongen-8" />
+  <character group="6" id="9" name="varkens-9" /></characters>

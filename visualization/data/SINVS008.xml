@@ -1,0 +1,14 @@
+<characters>
+  <character group="7" id="0" name="leeuw-0" />
+  <character group="6" id="1" name="koetsier-1" />
+  <character group="10" id="2" name="reus-2" />
+  <character group="9" id="3" name="reuzen-3" />
+  <character group="1" id="4" name="heer-4" />
+  <character group="4" id="5" name="mensen-5" />
+  <character group="11" id="6" name="leger-6" />
+  <character group="3" id="7" name="paard-7" />
+  <character group="12" id="8" name="burgemeester-8" />
+  <character group="8" id="9" name="koning-9" />
+  <character group="5" id="10" name="vijand-10" />
+  <character group="0" id="11" name="vijf-11" />
+  <character group="2" id="12" name="kobusje-12" /></characters>
